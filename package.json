@@ -1,0 +1,28 @@
+{
+  "name": "lazy-loading-research",
+  "version": "1.0.0",
+  "description": "Researching SEO implications of various lazy loading libraries.",
+  "main": "http.js",
+  "scripts": {
+    "start": "node http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/malchata/lazy-loading-research.git"
+  },
+  "keywords": [
+    "lazy",
+    "loading",
+    "research",
+    "seo"
+  ],
+  "author": "Jeremy L. Wagner <jeremy.l.wagner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malchata/lazy-loading-research/issues"
+  },
+  "homepage": "https://github.com/malchata/lazy-loading-research#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
