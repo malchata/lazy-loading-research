@@ -28,11 +28,19 @@ h2{
   line-height: 1.618;
 }
 
+h1 + h2{
+  margin-top: -3rem;
+}
+
 li{
   display: block;
   text-align: center;
   line-height: 1.608;
   font-size: 2rem;
+}
+
+.error{
+  color: #c00;
 }
 
 .no-js .lazy,
